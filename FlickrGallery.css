@@ -1,0 +1,44 @@
+body{
+    background-color: whitesmoke;
+}
+
+#container{
+    width: 100%;
+    height: auto;
+    margin: 20px auto;
+}
+
+h1, h3{
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    color: #353535;
+}
+
+h1{
+    font-size: 2em;
+}
+
+h3{
+    font-size: 1.5em;
+}
+
+
+hr{
+    border: 2px groove #ccc;
+    width: 50%
+}
+
+
+img{
+    width: 20%;
+    height: auto;
+    margin: 1em;
+    vertical-align: middle;
+    box-shadow: 10px 10px 5px #888888;
+
+}
+
+ul{
+    display: inline-block;
+    list-style: none;
+}
